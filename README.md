@@ -4,7 +4,6 @@
 
   The Road is a fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://ampolumukhesh.github.io/The_Road/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
